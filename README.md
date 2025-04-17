@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with HTML
 - 💬 Ask me about Python with emphasis on Data Analysis
-- 📫 How to reach me: Instagram @joeydasouza
+- 📫 How to reach me: joeydasouza@gmail.com
 - 😄 Pronouns: He/His
 
